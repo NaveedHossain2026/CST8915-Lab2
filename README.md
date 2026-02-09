@@ -30,7 +30,7 @@ Maintaining separate repositories for each microservice follows Factor 1 (One co
 
 ---
 
-## Challenges and Learnings (Optional)
+## Challenges and Learnings 
 
 Because of Azure vCPU and Public IP limits on the Azure student account (no 1-vCPU VM sizes were available in any region), the Storefront and Order Service run on the same VM. They are still treated as separate microservices, with different repositories, independent configurations, and separate ports to simulate a distributed environment.
 
@@ -39,10 +39,11 @@ Because of Azure vCPU and Public IP limits on the Azure student account (no 1-vC
 ## Links to the three service repositories
 
 https://github.com/NaveedHossain2026/order-service
+https://github.com/NaveedHossain2026/product-service
+https://github.com/NaveedHossain2026/store-front
 
 ---
 
-
 ## Acknowledgments
 
-[Optional: Credit any resources, documentation, or people who helped you]
+I used Gemini to troubleshoot errors and resolve technical blockers during the lab.
