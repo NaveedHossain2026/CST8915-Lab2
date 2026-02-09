@@ -38,7 +38,7 @@ Because of Azure vCPU and Public IP limits on the Azure student account (no 1-vC
 
 ## Links to the three service repositories
 
-Because of Azure vCPU and Public IP limits on the Azure student account (no 1-vCPU VM sizes were available in any region), the Storefront and Order Service run on the same VM. They are still treated as separate microservices, with different repositories, independent configurations, and separate ports to simulate a distributed environment.
+https://github.com/NaveedHossain2026/order-service
 
 ---
 
