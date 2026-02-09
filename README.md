@@ -39,7 +39,9 @@ Because of Azure vCPU and Public IP limits on the Azure student account (no 1-vC
 ## Links to the three service repositories
 
 https://github.com/NaveedHossain2026/order-service
+
 https://github.com/NaveedHossain2026/product-service
+
 https://github.com/NaveedHossain2026/store-front
 
 ---
